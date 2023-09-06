@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Walker 👋
 - 👀 I’m interested in Cloud and Full-Stack Engineering 👀
-- 🌱 I’m currently learning Vite ⚡
+- 🌱 I’m currently learning Azure, Vite⚡, Python 🐍
 - 📫 How to reach me - danielrywalker@gmail.com 📫
 
 <!---
