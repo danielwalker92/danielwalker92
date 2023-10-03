@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Walker 👋
-- 👀 I’m interested in Cloud and Full-Stack Engineering 👀
+- 👀 I’m interested in Full-Stack Engineering, Clean Code and Smooth SDLC 👀
 - 📫 How to reach me - danielrywalker@gmail.com 📫
 
 <!---
