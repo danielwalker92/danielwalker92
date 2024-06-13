@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [viedash](https://github.com/danielwalker92/viedash)
 
-- 🌱 I’m currently learning/interested in **Python, Algorithms and DevOps**
+- 🌱 I’m currently learning/interested in **Java, Python and DS&A**
 
 - 👨‍💻 All of my projects are available at [danielwalker.dev](https://danielwalker.dev)
 
-- 💬 Ask me about **transitioning from IT Operations to Development**
+- 💬 Ask me about **transitioning from IT Operations to Software Engineering**
 
 - 📫 How to reach me **danielrywalker@gmail.com**
 
